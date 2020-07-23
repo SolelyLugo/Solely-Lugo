@@ -1,5 +1,7 @@
 body {
     color:darkblue;
-    font: italic 13px sans-serif;
+
+    /*font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;*/
+    font: italic 13px impact;
     background:darkgray;
 }
